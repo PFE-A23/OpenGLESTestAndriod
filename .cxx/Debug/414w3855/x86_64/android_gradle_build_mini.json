@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\ouadi\\Documents\\AUTOMNE 2023\\LOG791\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ouadi\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\ouadi\\Documents\\AUTOMNE 2023\\LOG791\\app\\.cxx\\Debug\\414w3855\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ouadi\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\ouadi\\Documents\\AUTOMNE 2023\\LOG791\\app\\.cxx\\Debug\\414w3855\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opengltest_android::@6890427a1f51a3e7e1df": {
+      "artifactName": "opengltest_android",
+      "abi": "x86_64",
+      "output": "C:\\Users\\ouadi\\Documents\\AUTOMNE 2023\\LOG791\\app\\build\\intermediates\\cxx\\Debug\\414w3855\\obj\\x86_64\\libopengltest_android.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,3 @@
+C:/Users/ouadi/Documents/AUTOMNE 2023/LOG791/app/.cxx/Debug/414w3855/x86/CMakeFiles/opengltest_android.dir
+C:/Users/ouadi/Documents/AUTOMNE 2023/LOG791/app/.cxx/Debug/414w3855/x86/CMakeFiles/edit_cache.dir
+C:/Users/ouadi/Documents/AUTOMNE 2023/LOG791/app/.cxx/Debug/414w3855/x86/CMakeFiles/rebuild_cache.dir

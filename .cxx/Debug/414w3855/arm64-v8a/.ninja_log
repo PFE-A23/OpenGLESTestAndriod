@@ -1,0 +1,5 @@
+# ninja log v5
+0	591	7187038782373647	CMakeFiles/opengltest_android.dir/native-lib.cpp.o	87e8f78b2534e46c
+593	741	7187038783881978	C:/Users/ouadi/Documents/AUTOMNE 2023/LOG791/app/build/intermediates/cxx/Debug/414w3855/obj/arm64-v8a/libopengltest_android.so	6d0624b041191a77
+6	651	7187056118049271	CMakeFiles/opengltest_android.dir/native-lib.cpp.o	87e8f78b2534e46c
+652	813	7187056119661989	C:/Users/ouadi/Documents/AUTOMNE 2023/LOG791/app/build/intermediates/cxx/Debug/414w3855/obj/arm64-v8a/libopengltest_android.so	6d0624b041191a77
